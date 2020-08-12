@@ -1,0 +1,10 @@
+,Classifier,Accuracy Score
+0,MultinomialNB,0.9078156312625251
+1,ComplementNB,0.8877755511022044
+2,BernoulliNB,0.8226452905811623
+3,DecisionTreeClassifier,0.8346693386773547
+4,SVC,0.95
+5,KNeighborsClassifier,0.92
+6,RandomForestClassifier,0.89
+7,CNN,0.8614357113838196
+8,LSTM,0.813021719455719
